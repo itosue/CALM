@@ -1,0 +1,120 @@
+{
+    "versionLabel": "1.0.0",
+    "uuid": "119a3fa1-2554-4bf5-a817-99522392e1cc",
+    "appKeys": {},
+    "longName": "calm",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "calm",
+    "companyName": "itosue",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "FACE",
+                "file": "images/face.png"
+            },
+            {
+                "type": "png",
+                "name": "SAT",
+                "file": "images/sat.png"
+            },
+            {
+                "type": "png",
+                "name": "FRI",
+                "file": "images/fri.png"
+            },
+            {
+                "type": "png",
+                "name": "THU",
+                "file": "images/thu.png"
+            },
+            {
+                "type": "png",
+                "name": "WED",
+                "file": "images/wed.png"
+            },
+            {
+                "type": "png",
+                "name": "TUE",
+                "file": "images/tue.png"
+            },
+            {
+                "type": "png",
+                "name": "MON",
+                "file": "images/mon.png"
+            },
+            {
+                "type": "png",
+                "name": "SUN",
+                "file": "images/Sun.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "NOISE",
+                "file": "images/noise.png"
+            },
+            {
+                "type": "png",
+                "name": "COL",
+                "file": "images/colon.png"
+            },
+            {
+                "type": "png",
+                "name": "9",
+                "file": "images/9.png"
+            },
+            {
+                "type": "png",
+                "name": "8",
+                "file": "images/8.png"
+            },
+            {
+                "type": "png",
+                "name": "7",
+                "file": "images/7.png"
+            },
+            {
+                "type": "png",
+                "name": "6",
+                "file": "images/6.png"
+            },
+            {
+                "type": "png",
+                "name": "5",
+                "file": "images/5.png"
+            },
+            {
+                "type": "png",
+                "name": "4",
+                "file": "images/4.png"
+            },
+            {
+                "type": "png",
+                "name": "3",
+                "file": "images/3.png"
+            },
+            {
+                "type": "png",
+                "name": "2",
+                "file": "images/2.png"
+            },
+            {
+                "type": "png",
+                "name": "1",
+                "file": "images/1.png"
+            },
+            {
+                "type": "png",
+                "name": "0",
+                "file": "images/0.png"
+            }
+        ]
+    }
+}
